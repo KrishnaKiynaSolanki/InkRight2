@@ -1,0 +1,37 @@
+h1{color:#ffd700;}
+
+h1{text-align: center;}
+
+h1{font-size: 60px;}
+
+td{text-align: center; background-color: #00000066;}
+
+th{text-align: center;
+    vertical-align: middle;}
+
+body{background-image: url("images/bg.jpg")}
+
+
+p{color:#ffd700;}
+
+.menu{background-color:#00000066; height: 50px;}
+
+footer{text-align: center;}
+
+.btn-twitter {
+  background-color: #00acee;
+  border-color: #009ad5;
+  color: white;
+}
+
+.btn-facebook {
+  background-color: #4868ac;
+  border-color: #314776;
+  color: white;
+}
+
+.btn-pinterest {
+  background-color: #b62f26;
+  border-color: #b62f26;
+  color: white;
+}
